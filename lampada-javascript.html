@@ -2,18 +2,7 @@
 <html>
     <head>
         <title> A lâmpada </title>
-        <meta charset="UTF-8"/>
-        <script>
-            var quebrada = false;
-            function mudaLampada(tipo){
-                if(!quebrada){
-                    document.getElementById("luz").src = tipo+".jpg";
-                    if(tipo == 'lampada-quebrada'){
-                        quebrada = true;
-                    }
-                }
-            }
-        </script>
+        <meta charset="UTF-8"/>         
     </head>
     <body>
         <img src="lampada-apagada.jpg" 
@@ -22,5 +11,6 @@
             onmouseout="mudaLampada('lampada-apagada')"
             onclick="mudaLampada('lampada-quebrada')"
         />
+        <script type="text/javascript" src="script.js"></script>
     </body>
 </html>
