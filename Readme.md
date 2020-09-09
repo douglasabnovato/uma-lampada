@@ -17,8 +17,8 @@ Uma interação com uma lâmpida a partir do toque com html, css e javascript.
 
 #### Publicado
 
-- Lâmpada <br/> ![Lâmpada](/lampada-acesa.jpg) 
-- Lâmpada <br/> ![Lâmpada](/lampada-apagada.jpg) 
-- Lâmpada <br/> ![Lâmpada](/lampada-quebrada.jpg) 
+- Lâmpada Acesa <br/> ![Lâmpada](/lampada-acesa.jpg) 
+- Lâmpada Apagada <br/> ![Lâmpada](/lampada-apagada.jpg) 
+- Lâmpada Quebrada <br/> ![Lâmpada](/lampada-quebrada.jpg) 
 
 :. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)
